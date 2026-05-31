@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercetch",
+        "uuid": 18376667,
+        "checksum": "aramac"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
